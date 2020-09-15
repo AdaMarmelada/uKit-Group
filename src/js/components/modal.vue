@@ -9,11 +9,11 @@
             </slot>
             <button type="button" class="btn-close btn-right border-0 bg-transparent" @click="$parent.closeModal" aria-label="Close modal"><i class="fas fa-times"></i></button>
           </div>
-          <div :class="['modal-body', {'h-75': $parent.showScript > 0}]">
+          <div class="modal-body">
             <slot name="body">
             </slot>
           </div>
-          <div :class="['modal-footer', {'d-none': $parent.showScript > 0}]">
+          <div class="modal-footer">
             <slot name="footer">
             </slot>
           </div>
