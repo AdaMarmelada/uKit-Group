@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Персик",
+    "color": "Рыжий",
+    "breed": "Мэйнкун",
+    "gender": "Мужской",
+    "age": "2",
+    "comment": "Просто душка",
+    "photo": "https://kpravda.ru/wp-content/uploads/2020/01/mejn-kun-e1580395891965.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Снежинка",
+    "color": "Белый",
+    "breed": "Персидская",
+    "gender": "Женский",
+    "age": "3",
+    "comment": "Вредина",
+    "photo": "https://kote-life.ru/wp-content/uploads/2017/11/istoriya-porody-persidskaya-koshka-v-rossii.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Уголек",
+    "color": "Черный",
+    "breed": "Ориентальная",
+    "gender": "Мужской",
+    "age": "1",
+    "comment": "Настоящий джентельмен",
+    "photo": "https://www.zoopicture.ru/assets/2011/02/IMG_5967.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Дымка",
+    "color": "Серый",
+    "breed": "Русская голубая",
+    "gender": "Женский",
+    "age": "1",
+    "comment": "",
+    "photo": ""
+  },
+  {
+    "id": "5",
+    "name": "Клевер",
+    "color": "Трехцветная",
+    "breed": "Ангорская",
+    "gender": "Женский",
+    "age": "3",
+    "comment": "Маленькое счастье",
+    "photo": "https://www.murcat.ru/board/admin/db/stat_img/1573587331.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Графит",
+    "color": "Серый",
+    "breed": "Русская голубая",
+    "gender": "Женский",
+    "age": "2",
+    "comment": "",
+    "photo": "https://multiblog67.ru/images/Other/KOSHKI/RUSGOL/RUSGOL-001.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Дымка",
+    "color": "Серый",
+    "breed": "Русская голубая",
+    "gender": "Женский",
+    "age": "1",
+    "comment": "",
+    "photo": ""
+  },
+  {
+    "id": "8",
+    "name": "Дымка",
+    "color": "Серый",
+    "breed": "Русская голубая",
+    "gender": "Женский",
+    "age": "1",
+    "comment": "",
+    "photo": ""
+  },
+  {
+    "id": "9",
+    "name": "Дымка",
+    "color": "Серый",
+    "breed": "Русская голубая",
+    "gender": "Женский",
+    "age": "1",
+    "comment": "",
+    "photo": ""
+  },
+  {
+    "id": "10",
+    "name": "Дымка",
+    "color": "Серый",
+    "breed": "Русская голубая",
+    "gender": "Женский",
+    "age": "1",
+    "comment": "",
+    "photo": ""
+  },
+  {
+    "id": "11",
+    "name": "Дымка",
+    "color": "Серый",
+    "breed": "Русская голубая",
+    "gender": "Женский",
+    "age": "1",
+    "comment": "",
+    "photo": ""
+  },
+  {
+    "id": "12",
+    "name": "Дымка",
+    "color": "Серый",
+    "breed": "Русская голубая",
+    "gender": "Женский",
+    "age": "1",
+    "comment": "",
+    "photo": ""
+  }
+]
